@@ -33,6 +33,7 @@ This recipe makes a three-layer celebration cake with a raspberry filling betwee
 
 - Fresh raspberries
 - A dusting of powdered sugar
+- Chocolate pieces
 
 ## Instructions
 
